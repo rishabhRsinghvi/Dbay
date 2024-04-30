@@ -1,1 +1,1 @@
-decentralized auction
+decentralized ebay
