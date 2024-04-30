@@ -1,2 +1,1 @@
-# Dbay
-Decentralized Ebay
+decentralized auction
